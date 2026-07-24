@@ -1,0 +1,297 @@
+2026-07-18 20:18:05 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 20:19:36 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 20:20:30 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-18 20:20:48 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\AppData\Local\Temp\testng-eclipse-543217067\testng-customsuite.xml
+
+2026-07-18 20:20:48 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-07-18 20:20:51 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@65f00478: 72 ms
+2026-07-18 20:20:51 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@89c65d5: 15 ms
+2026-07-18 20:20:51 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7180e701: 11 ms
+2026-07-18 20:20:51 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@41a6d121: 9 ms
+2026-07-18 20:20:51 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@17d238b1: 9 ms
+2026-07-18 20:20:51 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3d7cc3cb: 0 ms
+2026-07-18 20:23:10 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 20:26:12 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 20:34:23 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 20:38:32 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 20:38:35 INFO  TestRegistration_001 - Started
+2026-07-18 20:42:20 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 20:42:23 INFO  TestRegistration_001 - Started
+2026-07-18 21:29:43 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 21:29:47 INFO  TestRegistration_001 - Started
+2026-07-18 21:31:22 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 21:31:25 INFO  TestRegistration_001 - Started
+2026-07-18 21:33:26 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 21:33:30 INFO  TestRegistration_001 - Started
+2026-07-18 21:46:42 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 21:46:45 INFO  TestRegistration_001 - Started
+2026-07-18 21:48:16 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 21:48:19 INFO  TestRegistration_001 - Started
+2026-07-18 21:49:26 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 21:49:30 INFO  TestRegistration_001 - Started
+2026-07-18 21:50:26 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 21:50:29 INFO  TestRegistration_001 - Started
+2026-07-18 22:35:46 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 22:35:51 INFO  TestRegistration_001 - Started
+2026-07-18 22:36:48 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 22:36:51 INFO  TestRegistration_001 - Started
+2026-07-18 22:37:36 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-18 22:37:39 INFO  TestRegistration_001 - Started
+2026-07-20 21:28:29 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-20 21:28:36 INFO  TestRegistration_001 - Started
+2026-07-20 21:29:27 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-20 21:29:30 INFO  TestRegistration_001 - Started
+2026-07-20 21:45:50 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-20 21:45:54 INFO  TestRegistration_001 - Started
+2026-07-20 21:51:02 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-20 21:51:07 INFO  TestRegistration_001 - Started
+2026-07-20 21:51:41 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-20 21:51:46 INFO  TestRegistration_001 - Started
+2026-07-20 22:02:48 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-20 22:02:52 INFO  TestRegistration_001 - Started
+2026-07-20 22:03:12 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-20 22:03:16 INFO  TestRegistration_001 - Started
+2026-07-20 22:15:43 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-20 22:15:50 INFO  TestRegistration_001 - Started
+2026-07-20 22:15:50 INFO  TestRegistration_001 - **Test Started**
+2026-07-20 22:15:50 INFO  TestRegistration_001 - Clicked on my account
+2026-07-20 22:15:50 INFO  TestRegistration_001 - Clicked on register
+2026-07-20 22:15:51 INFO  TestRegistration_001 - Entered on name
+2026-07-20 22:15:52 INFO  TestRegistration_001 - Started
+2026-07-20 22:15:52 INFO  TestRegistration_001 - **Test Started**
+2026-07-20 22:15:52 INFO  TestRegistration_001 - Clicked on my account
+2026-07-20 22:15:52 INFO  TestRegistration_001 - Clicked on register
+2026-07-20 22:15:53 INFO  TestRegistration_001 - Entered on name
+2026-07-20 22:15:54 INFO  TestRegistration_001 - Started
+2026-07-20 22:15:54 INFO  TestRegistration_001 - **Test Started**
+2026-07-20 22:15:54 INFO  TestRegistration_001 - Clicked on my account
+2026-07-20 22:15:54 INFO  TestRegistration_001 - Clicked on register
+2026-07-20 22:15:54 INFO  TestRegistration_001 - Clicked on submit
+2026-07-20 22:15:54 INFO  TestRegistration_001 - Entered on name
+2026-07-20 22:15:54 INFO  TestRegistration_001 - Clicked on submit
+2026-07-20 22:15:56 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-07-23 21:33:19 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\AppData\Local\Temp\testng-eclipse--1953035372\testng-customsuite.xml
+
+2026-07-23 21:33:19 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2026-07-23 21:33:21 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@27f1bbe0: 105 ms
+2026-07-23 21:33:21 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@30af7377: 17 ms
+2026-07-23 21:33:21 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@47b2e9e1: 13 ms
+2026-07-23 21:33:21 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3a095ec0: 9 ms
+2026-07-23 21:33:21 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2fe88a09: 9 ms
+2026-07-23 21:33:21 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1917d90f: 0 ms
+2026-07-23 21:33:41 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:13:23 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:16:38 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:17:34 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:18:19 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:20:26 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:24:04 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\testng.xml
+
+2026-07-23 22:24:10 INFO  TestRegistration_001 - Started
+2026-07-23 22:24:10 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:24:10 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:24:10 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:24:10 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:24:11 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:24:14 INFO  TestRegistration_001 - Started
+2026-07-23 22:24:14 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:24:14 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:24:14 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:24:15 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:24:16 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:24:20 INFO  TestRegistration_001 - Started
+2026-07-23 22:24:20 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:24:20 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:24:21 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:24:21 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:24:22 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:24:24 INFO  TestRegistration_001 - Started
+2026-07-23 22:24:24 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:24:24 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:24:25 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:24:25 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:24:26 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:25:39 INFO  TestRegistration_001 - Started
+2026-07-23 22:25:39 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:25:39 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:25:39 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:25:40 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:25:42 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:25:51 INFO  TestRegistration_001 - Started
+2026-07-23 22:25:51 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:25:51 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:25:52 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:25:52 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:25:53 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:36:06 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:36:11 INFO  TestRegistration_001 - Started
+2026-07-23 22:36:11 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:36:11 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:36:11 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:36:11 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:36:13 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:36:16 INFO  TestRegistration_001 - Started
+2026-07-23 22:36:16 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:36:16 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:36:16 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:36:17 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:36:18 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:38:05 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:38:08 INFO  TestRegistration_001 - Started
+2026-07-23 22:38:08 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:38:09 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:38:09 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:38:09 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:38:10 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:38:12 INFO  TestRegistration_001 - Started
+2026-07-23 22:38:12 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:38:12 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:38:13 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:38:13 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:38:14 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:38:57 INFO  Utils - [TestNG] Running:
+  C:\Users\sabav\hybridProjects\master.xml
+
+2026-07-23 22:39:01 INFO  TestRegistration_001 - Started
+2026-07-23 22:39:01 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:39:01 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:39:01 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:39:02 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:39:05 INFO  TestRegistration_001 - Clicked on submit
+2026-07-23 22:39:09 INFO  TestRegistration_001 - Started
+2026-07-23 22:39:09 INFO  TestRegistration_001 - **Test Started**
+2026-07-23 22:39:09 INFO  TestRegistration_001 - Clicked on my account
+2026-07-23 22:39:09 INFO  TestRegistration_001 - Clicked on register
+2026-07-23 22:39:10 INFO  TestRegistration_001 - Entered on name
+2026-07-23 22:39:12 INFO  TestRegistration_001 - Clicked on submit
