@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-07-23T22:38:57 IST" name="Suite" finished-at="2026-07-23T22:39:22 IST" duration-ms="25196">
+  <suite started-at="2026-07-24T20:16:48 IST" name="Suite" finished-at="2026-07-24T20:16:58 IST" duration-ms="10066">
     <groups>
     </groups>
-    <test started-at="2026-07-23T22:38:57 IST" name="Test" finished-at="2026-07-23T22:39:22 IST" duration-ms="25196">
+    <test started-at="2026-07-24T20:16:48 IST" name="Test" finished-at="2026-07-24T20:16:58 IST" duration-ms="10066">
       <class name="testCases.TestRegistration_001">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestRegistration_001@1fc32e4f]" started-at="2026-07-23T22:38:58 IST" name="setUp" finished-at="2026-07-23T22:39:01 IST" duration-ms="2974" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestRegistration_001@4e928fbf]" started-at="2026-07-24T20:16:49 IST" name="setUp" finished-at="2026-07-24T20:16:52 IST" duration-ms="3086" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="registrationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TestRegistration_001@1fc32e4f]" started-at="2026-07-23T22:39:01 IST" name="registrationPage" data-provider="loginData" finished-at="2026-07-23T22:39:05 IST" duration-ms="3811" status="PASS">
+        <test-method signature="registrationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TestRegistration_001@4e928fbf]" started-at="2026-07-24T20:16:52 IST" name="registrationPage" data-provider="loginData" finished-at="2026-07-24T20:16:54 IST" duration-ms="1904" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[nj@gmail.com]]>
+                <![CDATA[hhhhhnj@gmail.com]]>
               </value>
             </param>
             <param index="3">
@@ -54,11 +54,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestRegistration_001@1fc32e4f]" started-at="2026-07-23T22:39:05 IST" name="tearDown" finished-at="2026-07-23T22:39:05 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestRegistration_001@4e928fbf]" started-at="2026-07-24T20:16:54 IST" name="tearDown" finished-at="2026-07-24T20:16:54 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestRegistration_001@1fc32e4f]" started-at="2026-07-23T22:39:05 IST" name="setUp" finished-at="2026-07-23T22:39:09 IST" duration-ms="4323" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestRegistration_001@4e928fbf]" started-at="2026-07-24T20:16:54 IST" name="setUp" finished-at="2026-07-24T20:16:56 IST" duration-ms="2171" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -74,7 +74,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="registrationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TestRegistration_001@1fc32e4f]" started-at="2026-07-23T22:39:09 IST" name="registrationPage" data-provider="loginData" finished-at="2026-07-23T22:39:22 IST" duration-ms="13103" status="PASS">
+        <test-method signature="registrationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TestRegistration_001@4e928fbf]" started-at="2026-07-24T20:16:56 IST" name="registrationPage" data-provider="loginData" finished-at="2026-07-24T20:16:58 IST" duration-ms="1784" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -88,7 +88,7 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[jnaik@gmail.com]]>
+                <![CDATA[kkkkjnaik@gmail.com]]>
               </value>
             </param>
             <param index="3">
@@ -105,7 +105,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestRegistration_001@1fc32e4f]" started-at="2026-07-23T22:39:22 IST" name="tearDown" finished-at="2026-07-23T22:39:22 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestRegistration_001@4e928fbf]" started-at="2026-07-24T20:16:58 IST" name="tearDown" finished-at="2026-07-24T20:16:58 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
